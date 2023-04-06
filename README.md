@@ -1,5 +1,7 @@
 # EventSearcher
 
+Notice: According to the non-descloure aggrement, I can't share the source code publicly. If you want to know more about the details, feel free to contact me.
+
 ### Demo Video: https://youtu.be/ZKY0rU5ZILg
 ### Web Link: https://shorturl.at/ipry5
 
