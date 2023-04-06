@@ -25,12 +25,12 @@
 
 ### Result Table
 <div align="center" width="100%">
-  <img src="./img/search_event_3.png" width="800px">
+  <img src="./img/search_event_3.png" width="50%">
 </div>
 
 ### Event Details
 <div align="center" width="100%">
-  <img src="./img/search_event_4.png" width="800px">
+  <img src="./img/search_event_4.png" width="50%">
 </div>
 
 ### Artists Details
