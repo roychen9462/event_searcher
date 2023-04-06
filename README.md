@@ -14,23 +14,21 @@
 - Auto-detect Location: toggle it if you want system identify your location automatically.
 
 <div align="center" width="100%">
-  <img src="./img/search_event_1.png" width="500px">
-  <img src="./img/search_event_2.png" width="500px">
-</div>
-
-### Auto-complete
-<div align="center" width="100%">
-  <img src="./img/search_event_2.png" width="800px">
+  <img src="./img/search_event_1.png" width="45%">
+  <img src="./img/search_event_2.png" width="45%">
 </div>
 
 ### Result Table
+
+Search engine will provide at most 20 results sorted by alphabetical oreder. User can click each row to get detail information for each event.
+
 <div align="center" width="100%">
-  <img src="./img/search_event_3.png" width="50%">
+  <img src="./img/search_event_3.png" width="800px">
 </div>
 
 ### Event Details
 <div align="center" width="100%">
-  <img src="./img/search_event_4.png" width="50%">
+  <img src="./img/search_event_4.png" width="800px">
 </div>
 
 ### Artists Details
