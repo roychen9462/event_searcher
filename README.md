@@ -29,26 +29,34 @@ Search engine will provide at most 20 results sorted by alphabetical oreder. Use
 </div>
 
 ### Event Details
+
+This section shows all the information related to the particular event such as date, price, and seatMap. Additionally, user can also get the link for buying the tickect and sharing information on facebook or twitter.
+
 <div align="center" width="100%">
   <img src="./img/search_event_4.png" width="800px">
 </div>
 
 ### Artists Details
+
+This section shows artist information if that artist is belong to 'Music' category. User can find spotify information about the artist and featured albums.
+
 <div align="center" width="100%">
   <img src="./img/search_event_5.png" width="800px">
 </div>
 
 ### Venue Details
-<div align="center" width="100%">
-  <img src="./img/search_event_6.png" width="800px">
-</div>
 
-### Show Direction on Google Map
+This section shows venue details and provide the direction information using google map api.
+
 <div align="center" width="100%">
-  <img src="./img/search_event_7.png" width="800px">
+  <img src="./img/search_event_6.png" width="45%">
+  <img src="./img/search_event_7.png" width="45%">
 </div>
 
 ### Favorite List
+
+User can save their favorite event on watching list by clicking the heart logo next to the event name. Also, user can remove it.
+
 <div align="center" width="100%">
   <img src="./img/search_event_8.png" width="800px">
 </div>
