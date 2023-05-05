@@ -2,7 +2,9 @@
 
 Notice: According to the non-descloure aggrement, I can't share the source code publicly. If you want to know more about the details, feel free to contact me.
 
-### Demo Video: https://youtu.be/ZKY0rU5ZILg
+### Demo Video Web: https://youtu.be/ZKY0rU5ZILg
+### Demo Video iOS:https://youtu.be/0uEFgMz_C_s
+
 ### Web Link: https://shorturl.at/ipry5
 
 ## Screenshot
