@@ -5,7 +5,7 @@ Notice: According to the non-descloure aggrement, I can't share the source code 
 ### Demo Video Web: https://youtu.be/ZKY0rU5ZILg
 ### Demo Video iOS:https://youtu.be/0uEFgMz_C_s
 
-### Web Link: https://shorturl.at/ipry5
+### Web Link: [link](https://csci571-376506.wl.r.appspot.com)
 
 ## Screenshot
 
